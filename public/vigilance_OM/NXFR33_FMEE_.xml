@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CV>
+<EV dateinsert="20210406163002" dateprevue="20210407043003" daterun="20210406163002" echeance="12" noversion="1" producteur="DIROI" typeprev="1" crueint="974,976"> </EV>
+<DV dep="974-7" name="COTE-EST / VIG_COTE-EST" coul="1">
+</DV>
+<DV dep="974-6" name="COTE-NORD-EST / VIG_COTE-NORD-EST" coul="1">
+</DV>
+<DV dep="974-11" name="COTE-NORD-OUEST / VIG_COTE-NORD-OUEST	" coul="1">
+</DV>
+<DV dep="974-12" name="COTE-NORD / VIG_COTE-NORD" coul="1">
+</DV>
+<DV dep="974-10" name="COTE-OUEST / VIG_COTE-OUEST" coul="1">
+</DV>
+<DV dep="974-8" name="COTE-SUD-EST / VIG_COTE-SUD-EST" coul="1">
+</DV>
+<DV dep="974-13" name="COTE-SUD-OUEST / VIG_COTE-SUD-OUEST" coul="1">
+</DV>
+<DV dep="974-9" name="COTE-SUD / VIG_COTE-SUD" coul="1">
+</DV>
+<DV dep="974-2" name="EST / VIG_EST" coul="1">
+</DV>
+<DV dep="974-1" name="NORD / VIG_NORD" coul="1">
+</DV>
+<DV dep="974-5" name="OUEST / VIG_OUEST" coul="1">
+</DV>
+<DV dep="974-3" name="SUD-EST / VIG_SUD-EST" coul="1">
+</DV>
+<DV dep="974-4" name="SUD / VIG_SUD" coul="1">
+</DV>
+</CV>

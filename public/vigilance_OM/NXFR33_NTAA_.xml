@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CV><EV dateinsert="20210405145244" dateprevue="20210406145244" daterun="20210405145244" echeance="24" noversion="1" producteur="DIRPF" typeprev="1" crueint="987"> </EV>
+<DV dep="987-216" name="Australes Centre" coul="1">
+</DV>
+<DV dep="987-215" name="Australes Ouest" coul="1">
+</DV>
+<DV dep="987-210" name="Gambier" coul="1">
+</DV>
+<DV dep="987-214" name="Iles du Vent" coul="1">
+</DV>
+<DV dep="987-213" name="Iles sous le vent" coul="1">
+</DV>
+<DV dep="987-201" name="Marquises Nord" coul="1">
+</DV>
+<DV dep="987-202" name="Marquises Sud" coul="1">
+</DV>
+<DV dep="987-212" name="Mopelia" coul="1">
+</DV>
+<DV dep="987-217" name="Rapa" coul="1">
+</DV>
+<DV dep="987-206" name="Tuamotu Centre" coul="1">
+</DV>
+<DV dep="987-205" name="Tuamotu Centre Nord" coul="1">
+</DV>
+<DV dep="987-207" name="Tuamotu Centre Sud" coul="1">
+</DV>
+<DV dep="987-208" name="Tuamotu Est" coul="1">
+</DV>
+<DV dep="987-203" name="Tuamotu Nord Est" coul="1">
+</DV>
+<DV dep="987-204" name="Tuamotu Nord Ouest" coul="1">
+</DV>
+<DV dep="987-211" name="Tuamotu Ouest" coul="1">
+</DV>
+<DV dep="987-209" name="Tuamotu Sud" coul="1">
+</DV>
+</CV>

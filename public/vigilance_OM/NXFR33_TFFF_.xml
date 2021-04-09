@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<CV><EV dateinsert="20210406060018" dateprevue="20210406180018" daterun="20210406060018" echeance="12" noversion="1" producteur="DIRAG" typeprev="1" crueint="971,972,973,977-978"> </EV>
+<DV dep="971" name="Guadeloupe" coul="1">
+</DV>
+<DV dep="973-3" name="Guyane Centre" coul="1">
+</DV>
+<DV dep="973-2" name="Guyane Nord Est" coul="1">
+</DV>
+<DV dep="973-1" name="Guyane Nord Ouest" coul="1">
+</DV>
+<DV dep="973-4" name="Guyane Sud" coul="1">
+</DV>
+<DV dep="977-978" name="St Martin/St Barth" coul="1">
+</DV>
+<DV dep="972" name="Martinique" coul="1">
+</DV>
+</CV>
